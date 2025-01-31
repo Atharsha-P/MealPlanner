@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(45deg, #ff8008, #ffc837);
+  font-family: 'Arial', sans-serif;
+  color: white;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
